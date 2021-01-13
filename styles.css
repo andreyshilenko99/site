@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333366;
+    margin: 0 auto;
+
+}
+header {
+    background: url(static/background.jpg), no-repeat;
+    display:flex;
+    flex-direction: row;
+    max-height: 400px;
+    max-width: 800px;
+
+}
+
+ul {
+    
+}
+
+header#logo { width:100px; height:100px; background:url(static/gerb.svg.png), no-repeat;}
+
+* {
+    box-sizing: border-box;
+}
+
